@@ -1,3 +1,3 @@
 # belajar-kolaborasi
 
-Latihan squash changes , commit ke -1
+Latihan squash changes , commit ke -2
